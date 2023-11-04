@@ -19,11 +19,11 @@ function App() {
 
   return (
     <>
-    <Navbar></Navbar>
-    <HeroBanner></HeroBanner>
-    <About></About>
-    <InfoOne></InfoOne>
-    <Infotwo></Infotwo>
+    <Navbar />
+    <HeroBanner />
+    <About />
+    <InfoOne />
+    <Infotwo />
     <CTA />
     <Portfolio />
     <GetInTouch />
