@@ -28,8 +28,6 @@ function App() {
     <Portfolio />
     <GetInTouch />
     <Footer />
-
-      test
     </>
   );
 }
